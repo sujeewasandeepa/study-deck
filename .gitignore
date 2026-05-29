@@ -1,0 +1,7 @@
+study-deck-api/node_modules/
+study-deck-api/build/
+study-deck-api/dist/
+
+study-deck-web/node_modules/
+study-deck-web/build/
+study-deck-web/dist/

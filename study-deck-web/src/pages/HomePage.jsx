@@ -13,7 +13,7 @@ function HomePage() {
           — all in one place.
         </p>
         <div className="mt-8">
-          <Button asChild size="lg">
+          <Button asChild size="lg" variant="cta">
             <Link to="/signup">Get started</Link>
           </Button>
         </div>
